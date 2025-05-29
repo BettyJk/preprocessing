@@ -33,16 +33,6 @@ Supervisor: M. Ossmani — ENSAM Meknès
    conclusion
 
 ----
-
-🔎 Indices and tables
-=====================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-----
-
 🚀 **Quickstart**
 
 To launch the app locally:
