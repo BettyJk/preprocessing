@@ -1,8 +1,10 @@
 streamlit
 pandas
 numpy
+scikit-learn
 seaborn
 matplotlib
-scikit-learn
 joblib
-openpyxl  
+sphinx
+sphinx-rtd-theme
+myst-parser
