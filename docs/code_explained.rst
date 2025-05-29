@@ -3,7 +3,7 @@ Code Structure and Explanation
 
 This section explains the core code of the app, split into modules for clarity.
 
-Main App File: ``app.py``
+Main App File: ``preprocessing.py``
 -------------------------
 
 - Initializes Streamlit and sets the page layout
